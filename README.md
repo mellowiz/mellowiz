@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 📫 Reach me through:
-  - [Twitter](https://twitter.com/mellowiz)
   - [Keybase](https://keybase.io/mellowiz)
-
+  - [GitHub](https://github.com/mellowiz)
+    - [GitHub Pages](https://mellowiz.github.io/)
+  - [Bitbucket](https://bitbucket.org/mellowiz/)
+  - [Docker Hub](https://hub.docker.com/u/mellowiz)
+  - [Twitter](https://twitter.com/mellowiz)
+  - [Reddit](https://www.reddit.com/user/mellowiz)
