@@ -40,6 +40,7 @@ Here are some ideas to get you started:
        </ul>
      </ul>
     </td>
-    <td><img src="Social_dino_with_hat.gif"></td>
+    <td><img src="Dino_non-birthday_version.gif"></td>
   </tr>
 </table>
+
