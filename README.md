@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 📫 Reach me through:
   - [Keybase](https://keybase.io/mellowiz)
@@ -23,3 +22,24 @@ Here are some ideas to get you started:
   - [Docker Hub](https://hub.docker.com/u/mellowiz)
   - [Twitter](https://twitter.com/mellowiz)
   - [Reddit](https://www.reddit.com/user/mellowiz)
+-->
+
+<table border="0">
+  <tr>
+    <td width="30%">
+     <ul>
+      <li>📫 Reach me through:</li>
+       <ul>
+        <li><a href="https://keybase.io/mellowiz">Keybase</a></li>
+        <li><a href="https://github.com/mellowiz">GitHub</a></li>
+         <ul><li><a href="https://mellowiz.github.io/">GitHub Pages</a></li></ul>
+        <li><a href="https://bitbucket.org/mellowiz/">Bitbucket</a></li>
+        <li><a href="https://hub.docker.com/u/mellowiz">Docker Hub</a></li>
+        <li><a href="https://twitter.com/mellowiz">Twitter</a></li>
+        <li><a href="https://www.reddit.com/user/mellowiz">Reddit</a></li>
+       </ul>
+     </ul>
+    </td>
+    <td><img src="Social_dino_with_hat.gif"></td>
+  </tr>
+</table>
